@@ -1,5 +1,5 @@
 ## 👋 Hi there:
-I'm Leonardo, a Front-End Software Engineer specializing in React, JavaScript, Node.js, React Router, Material UI, Bootstrap, Express.js, and MongoDB. Additionally, I have experience with a range of other technologies, listed below. Please feel free to contact me.
+I'm Leonardo, a Front-End Software Engineer specializing in React, JavaScript, Node.js, React Router, Material UI, Bootstrap, Express.js, and MongoDB. Additionally, I have experience with various other technologies, listed below. Please feel free to contact me.
 
 ## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardoaranha)
